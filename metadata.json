@@ -1,0 +1,6 @@
+{
+  "name": "Milan Wed Studio",
+  "description": "Premium Wedding Invitation Websites by Milan Wed Studio, Kolkata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
